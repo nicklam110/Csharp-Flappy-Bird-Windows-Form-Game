@@ -9,6 +9,12 @@ As I was inspired by that link, I added a few personal modifications myself to t
   - Made a new function called "startGame()" this resets all values to their default positions
   - Using my newly created "startGame()" function I added a feature that whenever the user presses the "R" key during the "endGame()" method, the "startGame()" is then       called and the game resets.
 
-## Game Tip!!
+### Game Tip!!
 - Do not spam the space bar. 
 - Simply hold the spacebar to move the bird upwards and release it to allow gravity to pull the bird downwards. 
+
+### Where to find the code:
+The Code for this game can be found in the "Form1.cs" file.
+
+
+Thank you and I hope you enjoy! :)
